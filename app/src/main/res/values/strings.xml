@@ -1,3 +1,19 @@
 <resources>
-    <string name="app_name">ano/mes/dia</string>
+    <string name="app_name">Ano/Mes/Dia</string>
+    <string name="titulo_tela">Conversor de idade em dias</string>
+    <string name="subtitulo_tela">Preencha os campos abaixo para obter a quantidade aproximada de dias.</string>
+    <string name="hint_ano">Digite a idade em ano(s)</string>
+    <string name="hint_mes">Digite a idade em mes(es)</string>
+    <string name="hint_dia">Digite a idade em dia(s)</string>
+    <string name="botao_converter">Converter para dias</string>
+    <string name="botao_limpar">Limpar campos</string>
+    <string name="resultado_inicial">O resultado será exibido aqui.</string>
+    <string name="resultado_detalhado">Idade informada: %1$d ano(s), %2$d mes(es) e %3$d dia(s).\nTotal aproximado: %4$d dia(s).</string>
+    <string name="error_ano">Digite a quantidade de ano(s)</string>
+    <string name="error_mes">Digite a quantidade de mes(es)</string>
+    <string name="error_dia">Digite a quantidade de dia(s)</string>
+    <string name="error_valor_negativo">Informe um valor maior ou igual a zero</string>
+    <string name="error_intervalo_mes">Informe um mes entre 0 e 11</string>
+    <string name="error_intervalo_dia">Informe um dia entre 0 e 30</string>
+    <string name="campos_limpos">Campos limpos.</string>
 </resources>
